@@ -10,17 +10,17 @@ export default function SocialLinks() {
       <a href='https://github.com/supermanas' className='icon'>
         &#xe908;
       </a>
-      <a href='#' className='icon'>
+      <a href='https://twitter.com' className='icon'>
         &#xe90e;
       </a>
-      <a href='#' className='icon'>
+      <a href='https://linkedin.com' className='icon'>
         &#xe907;
       </a>
-      <a href='#' className='icon'>
+      <a href='https://facebook.com' className='icon'>
         &#xe90d;
       </a>
       <a
-        href='#'
+        href='https://slack.com'
         className='icon'
       >
         &#xe902;
