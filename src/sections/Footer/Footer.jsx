@@ -10,7 +10,7 @@ export default function Footer() {
         <SocialLinks />
       </div>
       <span className={classes.colorize}>Designed</span> and <span className={classes.colorize}>built</span> <br />
-     <a href="https://github.com/KrishnaMoorthy12">Krishna Moorthy</a>
+     <a href="https://github.com/supermanas">Krishna Moorthy</a>
     </div>
   );
 }
